@@ -13,7 +13,7 @@ def monopoly_with_second_tier
   # complexity.
   e={}
   	monopoly =  {:railroads => e}
-  	monopoly[:railroads][e]=:pieces
+  	e[:pieces]
 end
 
 monopoly_with_second_tier
