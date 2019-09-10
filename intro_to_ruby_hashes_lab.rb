@@ -17,7 +17,7 @@ def monopoly_with_second_tier
     
   }
   
-  binding.pry
+
 end
 
 
