@@ -12,7 +12,6 @@ def monopoly_with_second_tier
   # complexity.
   	monopoly =  {:railroads => {}}
   	monopoly[:railroads]=:pieces
-  	binding.pry
 end
 
 monopoly_with_second_tier
